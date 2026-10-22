@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+*.xccurrentversion
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# CocoaPods / Carthage / Tuist (nếu sau này dùng)
+Pods/
+Carthage/Build/
+Tuist/.build/
